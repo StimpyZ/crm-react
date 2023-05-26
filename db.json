@@ -1,0 +1,20 @@
+{
+  "clientes": [
+    {
+      "nombre": "Jole24 ",
+      "empresa": "Adecco",
+      "email": "email@email.com",
+      "telefono": "12122",
+      "notas": "No hace na",
+      "id": 1
+    },
+    {
+      "nombre": "Jole24 (actualizado)",
+      "empresa": "sad",
+      "email": "email@email.com",
+      "telefono": "5266151",
+      "notas": "asdsd",
+      "id": 2
+    }
+  ]
+}
